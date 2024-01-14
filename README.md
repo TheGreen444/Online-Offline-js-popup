@@ -1,4 +1,4 @@
-                                                     code by -- thegreen
+                                                code by -- thegreen
 
 This code can be used in a website to make it feature full and professional website
 This code can detect if you are connected to internet or not 
